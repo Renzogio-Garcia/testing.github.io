@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RaNd0m.rpg</title>
+  </head>
+  <body background="gearbg.jpg">
+    <center>
+      <audio src="Imagine Dragons - Warriors.mp3" autoplay></audio>
+    </center>
+    <marquee behavior="scroll" height="50" direction="left" bgcolor="#800000"> <font size="+3" face="Comic Sans Ms">In order to bring evil toward the light, we must go into the shadows.</font></marquee>
+    <center>
+      <h1><font face="courier new" color="white" size="+6">j0!n Th3 H00d<h1>
+    </center>
+    <form><font size="+1">
+        First Name:<input type="text" name="firstname">
+        Last Name:<input type="text" name="firstname"><br>
+        What is your Gender?
+      <input type="radio" name="gender" value="female"/>Female
+      <input type="submit" value="submit">
+      <input type="reset" value="reset">
+    </font>
+    </form>
+  </body>
+</html>
